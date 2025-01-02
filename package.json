@@ -1,0 +1,15 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for weapon selection",
+  "main": "index.js", // أو اسم الملف الرئيسي للكود الخاص بك
+  "scripts": {
+    "start": "node index.js" // أمر التشغيل على Render
+  },
+  "dependencies": {
+    "discord.js": "^14.7.1" // أو أحدث إصدار متوافق
+  },
+    "engines": {
+        "node": "16.x" // أو أي إصدار Node متوافق مع discord.js v14
+    }
+}
